@@ -1,0 +1,201 @@
+﻿Day,Month,Year,Customer_Age,Age_Group,Customer_Gender,Country,State,Order_Quantity,Unit_Cost,Unit_Price,Profit,Cost,Revenue,TV,Radio,Newspaper,Sales
+26,November,2013,19,Youth (<25),M,Canada,British Columbia,8,45,120,590,360,950,230.1,37.8,69.2,22.1
+26,November,2015,19,Youth (<25),M,Canada,British Columbia,8,45,120,590,360,950,44.5,39.3,45.1,10.4
+23,March,2014,49,Adults (35-64),M,Australia,New South Wales,23,45,120,1366,1035,2401,17.2,45.9,69.3,9.3
+23,March,2016,49,Adults (35-64),M,Australia,New South Wales,20,45,120,1188,900,2088,151.5,41.3,58.5,18.5
+15,May,2014,47,Adults (35-64),F,Australia,New South Wales,4,45,120,238,180,418,180.8,12.8,58.4,12.9
+15,May,2016,47,Adults (35-64),F,Australia,New South Wales,5,45,120,297,225,522,8.7,48.9,75,7.2
+22,May,2014,47,Adults (35-64),F,Australia,Victoria,4,45,120,199,180,379,57.5,32.8,23.5,11.8
+22,May,2016,47,Adults (35-64),F,Australia,Victoria,2,45,120,100,90,190,120.2,19.6,11.6,13.2
+22,February,2014,35,Adults (35-64),M,Australia,Victoria,22,45,120,1096,990,2086,8.6,2.1,1,4.8
+22,February,2016,35,Adults (35-64),M,Australia,Victoria,21,45,120,1046,945,1991,199.8,2.6,21.2,10.6
+30,July,2013,32,Young Adults (25-34),F,Australia,Victoria,8,45,120,398,360,758,66.1,5.8,24.2,8.6
+30,July,2015,32,Young Adults (25-34),F,Australia,Victoria,8,45,120,398,360,758,214.7,24,4,17.4
+15,July,2013,34,Young Adults (25-34),M,Australia,Victoria,7,45,120,349,315,664,23.8,35.1,65.9,9.2
+15,July,2015,34,Young Adults (25-34),M,Australia,Victoria,7,45,120,349,315,664,97.5,7.6,7.2,9.7
+2,August,2013,29,Young Adults (25-34),M,Canada,British Columbia,5,45,120,369,225,594,204.1,32.9,46,19
+2,August,2015,29,Young Adults (25-34),M,Canada,British Columbia,7,45,120,517,315,832,195.4,47.7,52.9,22.4
+2,September,2013,29,Young Adults (25-34),M,Canada,British Columbia,2,45,120,148,90,238,67.8,36.6,114,12.5
+2,September,2015,29,Young Adults (25-34),M,Canada,British Columbia,1,45,120,74,45,119,281.4,39.6,55.8,24.4
+22,January,2014,29,Young Adults (25-34),M,Canada,British Columbia,1,45,120,74,45,119,69.2,20.5,18.3,11.3
+22,January,2016,29,Young Adults (25-34),M,Canada,British Columbia,1,45,120,74,45,119,147.3,23.9,19.1,14.6
+17,May,2014,29,Young Adults (25-34),M,Canada,British Columbia,6,45,120,443,270,713,218.4,27.7,53.4,18
+17,May,2016,29,Young Adults (25-34),M,Canada,British Columbia,8,45,120,590,360,950,237.4,5.1,23.5,12.5
+27,March,2014,51,Adults (35-64),M,United States,Oregon,9,45,120,524,405,929,13.2,15.9,49.6,5.6
+27,March,2016,51,Adults (35-64),M,United States,Oregon,7,45,120,407,315,722,228.3,16.9,26.2,15.5
+25,August,2013,49,Adults (35-64),M,Canada,British Columbia,3,45,120,221,135,356,62.3,12.6,18.3,9.7
+25,August,2015,49,Adults (35-64),M,Canada,British Columbia,1,45,120,74,45,119,262.9,3.5,19.5,12
+26,December,2013,49,Adults (35-64),M,Canada,British Columbia,6,45,120,443,270,713,142.9,29.3,12.6,15
+26,December,2015,49,Adults (35-64),M,Canada,British Columbia,5,45,120,369,225,594,240.1,16.7,22.9,15.9
+2,January,2014,48,Adults (35-64),F,Canada,British Columbia,4,45,120,295,180,475,248.8,27.1,22.9,18.9
+2,January,2016,48,Adults (35-64),F,Canada,British Columbia,4,45,120,295,180,475,70.6,16,40.8,10.5
+13,March,2014,48,Adults (35-64),F,Canada,British Columbia,20,45,120,1476,900,2376,292.9,28.3,43.2,21.4
+13,March,2016,48,Adults (35-64),F,Canada,British Columbia,22,45,120,1624,990,2614,112.9,17.4,38.6,11.9
+23,May,2014,47,Adults (35-64),F,Canada,British Columbia,24,45,120,1771,1080,2851,97.2,1.5,30,9.6
+23,May,2016,47,Adults (35-64),F,Canada,British Columbia,23,45,120,1697,1035,2732,265.6,20,0.3,17.4
+19,July,2013,32,Young Adults (25-34),F,United States,Oregon,9,45,120,524,405,929,95.7,1.4,7.4,9.5
+19,July,2015,32,Young Adults (25-34),F,United States,Oregon,9,45,120,524,405,929,290.7,4.1,8.5,12.8
+11,November,2013,34,Young Adults (25-34),M,Canada,British Columbia,25,45,120,1845,1125,2970,266.9,43.8,5,25.4
+11,November,2015,34,Young Adults (25-34),M,Canada,British Columbia,23,45,120,1697,1035,2732,74.7,49.4,45.7,14.7
+13,July,2013,43,Adults (35-64),F,United States,California,10,45,120,726,450,1176,43.1,26.7,35.1,10.1
+13,July,2015,43,Adults (35-64),F,United States,California,10,45,120,726,450,1176,228,37.7,32,21.5
+31,March,2014,43,Adults (35-64),F,United States,California,11,45,120,799,495,1294,202.5,22.3,31.6,16.6
+31,March,2016,43,Adults (35-64),F,United States,California,11,45,120,799,495,1294,177,33.4,38.7,17.1
+28,August,2013,61,Adults (35-64),M,United States,California,8,45,120,581,360,941,293.6,27.7,1.8,20.7
+28,August,2015,61,Adults (35-64),M,United States,California,10,45,120,726,450,1176,206.9,8.4,26.4,12.9
+27,August,2013,57,Adults (35-64),M,Canada,British Columbia,2,45,120,148,90,238,25.1,25.7,43.3,8.5
+27,August,2015,57,Adults (35-64),M,Canada,British Columbia,1,45,120,74,45,119,175.1,22.5,31.5,14.9
+17,November,2013,29,Young Adults (25-34),F,Canada,British Columbia,12,45,120,886,540,1426,89.7,9.9,35.7,10.6
+17,November,2015,29,Young Adults (25-34),F,Canada,British Columbia,14,45,120,1033,630,1663,239.9,41.5,18.5,23.2
+7,August,2013,38,Adults (35-64),M,Germany,Saarland,3,45,120,160,135,295,227.2,15.8,49.9,14.8
+7,August,2015,38,Adults (35-64),M,Germany,Saarland,1,45,120,53,45,98,66.9,11.7,36.8,9.7
+15,July,2013,52,Adults (35-64),F,France,Seine Saint Denis,8,45,120,427,360,787,199.8,3.1,34.6,11.4
+15,July,2015,52,Adults (35-64),F,France,Seine Saint Denis,8,45,120,427,360,787,100.4,9.6,3.6,10.7
+17,August,2013,43,Adults (35-64),F,France,Moselle,28,45,120,1697,1260,2957,216.4,41.7,39.6,22.6
+17,August,2015,43,Adults (35-64),F,France,Moselle,27,45,120,1636,1215,2851,182.6,46.2,58.7,21.2
+17,July,2013,24,Youth (<25),F,Australia,Queensland,9,45,120,502,405,907,262.7,28.8,15.9,20.2
+17,July,2015,24,Youth (<25),F,Australia,Queensland,6,45,120,335,270,605,198.9,49.4,60,23.7
+31,December,2013,23,Youth (<25),M,United States,California,6,45,120,436,270,706,7.3,28.1,41.4,5.5
+31,December,2015,23,Youth (<25),M,United States,California,7,45,120,508,315,823,136.2,19.2,16.6,13.2
+17,September,2013,29,Young Adults (25-34),F,United Kingdom,England,15,45,120,1053,675,1728,210.8,49.6,37.7,23.8
+17,September,2015,29,Young Adults (25-34),F,United Kingdom,England,15,45,120,1053,675,1728,210.7,29.5,9.3,18.4
+24,September,2013,32,Young Adults (25-34),M,France,Nord,6,45,120,356,270,626,53.5,2,21.4,8.1
+24,September,2015,32,Young Adults (25-34),M,France,Nord,3,45,120,178,135,313,261.3,42.7,54.7,24.2
+25,September,2013,19,Youth (<25),F,Germany,Saarland,6,45,120,320,270,590,239.3,15.5,27.3,15.7
+25,September,2015,19,Youth (<25),F,Germany,Saarland,8,45,120,427,360,787,102.7,29.6,8.4,14
+26,November,2013,26,Young Adults (25-34),F,Canada,British Columbia,7,45,120,517,315,832,131.1,42.8,28.9,18
+26,November,2015,26,Young Adults (25-34),F,Canada,British Columbia,8,45,120,590,360,950,69,9.3,0.9,9.3
+3,August,2013,35,Adults (35-64),M,Canada,British Columbia,1,45,120,74,45,119,31.5,24.6,2.2,9.5
+3,August,2015,35,Adults (35-64),M,Canada,British Columbia,1,45,120,74,45,119,139.3,14.5,10.2,13.4
+19,June,2014,35,Adults (35-64),M,Canada,British Columbia,10,45,120,738,450,1188,237.4,27.5,11,18.9
+19,June,2016,35,Adults (35-64),M,Canada,British Columbia,12,45,120,886,540,1426,216.8,43.9,27.2,22.3
+4,March,2014,38,Adults (35-64),F,United States,California,4,45,120,290,180,470,199.1,30.6,38.7,18.3
+4,March,2016,38,Adults (35-64),F,United States,California,3,45,120,218,135,353,109.8,14.3,31.7,12.4
+30,May,2014,38,Adults (35-64),F,United States,California,2,45,120,145,90,235,26.8,33,19.3,8.8
+30,May,2016,38,Adults (35-64),F,United States,California,2,45,120,145,90,235,129.4,4,31.3,11
+28,June,2014,38,Adults (35-64),F,United States,California,10,45,120,726,450,1176,213.4,24.6,13.1,17
+28,June,2016,38,Adults (35-64),F,United States,California,7,45,120,508,315,823,16.9,43.7,89.4,8.7
+10,July,2014,38,Adults (35-64),F,United States,California,13,45,120,944,585,1529,27.5,1.6,20.7,6.9
+10,July,2016,38,Adults (35-64),F,United States,California,12,45,120,871,540,1411,120.5,28.5,14.2,14.2
+12,March,2014,54,Adults (35-64),F,Australia,Queensland,7,45,120,391,315,706,5.4,29.9,9.4,5.3
+12,March,2016,54,Adults (35-64),F,Australia,Queensland,6,45,120,335,270,605,116,7.7,23.1,11
+3,September,2013,51,Adults (35-64),F,United States,Washington,7,45,120,340,315,655,76.4,26.7,22.3,11.8
+3,September,2015,51,Adults (35-64),F,United States,Washington,9,45,120,437,405,842,239.8,4.1,36.9,12.3
+26,March,2014,47,Adults (35-64),F,United States,California,6,45,120,436,270,706,75.3,20.3,32.5,11.3
+26,March,2016,47,Adults (35-64),F,United States,California,4,45,120,290,180,470,68.4,44.5,35.6,13.6
+4,May,2014,47,Adults (35-64),F,United States,California,17,45,120,1234,765,1999,213.5,43,33.8,21.7
+4,May,2016,47,Adults (35-64),F,United States,California,16,45,120,1162,720,1882,193.2,18.4,65.7,15.2
+4,February,2014,46,Adults (35-64),M,United States,Washington,1,45,120,49,45,94,76.3,27.5,16,12
+4,February,2016,46,Adults (35-64),M,United States,Washington,3,45,120,146,135,281,110.7,40.6,63.2,16
+6,November,2013,46,Adults (35-64),M,United States,California,5,45,120,363,225,588,88.3,25.5,73.4,12.9
+6,November,2015,46,Adults (35-64),M,United States,California,4,45,120,290,180,470,109.8,47.8,51.4,16.7
+12,February,2014,46,Adults (35-64),M,United States,California,30,45,120,2178,1350,3528,134.3,4.9,9.3,11.2
+12,February,2016,46,Adults (35-64),M,United States,California,27,45,120,1960,1215,3175,28.6,1.5,33,7.3
+17,May,2014,46,Adults (35-64),M,United States,California,5,45,120,363,225,588,217.7,33.5,59,19.4
+17,May,2016,46,Adults (35-64),M,United States,California,2,45,120,145,90,235,250.9,36.5,72.3,22.2
+23,September,2013,41,Adults (35-64),F,Germany,Hessen,28,45,120,1865,1260,3125,107.4,14,10.9,11.5
+23,September,2015,41,Adults (35-64),F,Germany,Hessen,29,45,120,1931,1305,3236,163.3,31.6,52.9,16.9
+20,September,2013,32,Young Adults (25-34),M,United States,Washington,3,45,120,146,135,281,197.6,3.5,5.9,11.7
+20,September,2015,32,Young Adults (25-34),M,United States,Washington,1,45,120,49,45,94,184.9,21,22,15.5
+25,October,2013,32,Young Adults (25-34),M,United States,California,8,45,120,581,360,941,289.7,45.9,51.2,25.4
+25,October,2015,32,Young Adults (25-34),M,United States,California,9,45,120,653,405,1058,135.2,41.7,45.9,17.2
+11,May,2014,32,Young Adults (25-34),M,United States,California,26,45,120,1888,1170,3058,222.4,4.3,49.8,11.7
+11,May,2016,32,Young Adults (25-34),M,United States,California,27,45,120,1960,1215,3175,296.4,36.3,100.9,23.8
+29,September,2013,33,Young Adults (25-34),F,Canada,British Columbia,5,45,120,369,225,594,280.2,10.1,21.4,14.8
+29,September,2015,33,Young Adults (25-34),F,Canada,British Columbia,3,45,120,221,135,356,187.9,17.2,17.9,14.7
+16,May,2014,33,Young Adults (25-34),F,Canada,British Columbia,15,45,120,1107,675,1782,238.2,34.3,5.3,20.7
+16,May,2016,33,Young Adults (25-34),F,Canada,British Columbia,15,45,120,1107,675,1782,137.9,46.4,59,19.2
+23,May,2014,42,Adults (35-64),M,United States,California,1,45,120,73,45,118,25,11,29.7,7.2
+23,May,2016,42,Adults (35-64),M,United States,California,3,45,120,218,135,353,90.4,0.3,23.2,10.6
+6,August,2013,42,Adults (35-64),M,United States,Oregon,17,45,120,989,765,1754,13.1,0.4,25.6,5.3
+6,August,2015,42,Adults (35-64),M,United States,Oregon,16,45,120,931,720,1651,255.4,26.9,5.5,19.8
+14,October,2013,43,Adults (35-64),F,United States,Washington,10,45,120,486,450,936,225.8,8.2,56.5,13.4
+14,October,2015,43,Adults (35-64),F,United States,Washington,10,45,120,486,450,936,241.7,38,23.2,21.8
+6,December,2013,43,Adults (35-64),F,United States,Washington,10,45,120,486,450,936,175.7,15.4,2.4,14.1
+6,December,2015,43,Adults (35-64),F,United States,Washington,9,45,120,437,405,842,209.6,20.6,10.7,15.9
+18,December,2013,45,Adults (35-64),F,United States,Washington,3,45,120,146,135,281,78.2,46.8,34.5,14.6
+18,December,2015,45,Adults (35-64),F,United States,Washington,2,45,120,97,90,187,75.1,35,52.7,12.6
+13,September,2013,53,Adults (35-64),M,United Kingdom,England,4,45,120,281,180,461,139.2,14.3,25.6,12.2
+13,September,2015,53,Adults (35-64),M,United Kingdom,England,2,45,120,140,90,230,76.4,0.8,14.8,9.4
+27,October,2013,21,Youth (<25),F,Australia,Victoria,3,45,120,149,135,284,125.7,36.9,79.2,15.9
+27,October,2015,21,Youth (<25),F,Australia,Victoria,1,45,120,50,45,95,19.4,16,22.3,6.6
+2,January,2014,34,Young Adults (25-34),F,Australia,New South Wales,5,45,120,297,225,522,141.3,26.8,46.2,15.5
+2,January,2016,34,Young Adults (25-34),F,Australia,New South Wales,3,45,120,178,135,313,18.8,21.7,50.4,7
+10,May,2014,22,Youth (<25),F,United States,California,1,45,120,73,45,118,224,2.4,15.6,11.6
+10,May,2016,22,Youth (<25),F,United States,California,1,45,120,73,45,118,123.1,34.6,12.4,15.2
+27,April,2014,67,Seniors (64+),F,United States,California,2,45,120,145,90,235,229.5,32.3,74.2,19.7
+27,April,2016,67,Seniors (64+),F,United States,California,1,45,120,73,45,118,87.2,11.8,25.9,10.6
+22,December,2013,31,Young Adults (25-34),M,United States,Washington,3,45,120,146,135,281,7.8,38.9,50.6,6.6
+22,December,2015,31,Young Adults (25-34),M,United States,Washington,5,45,120,243,225,468,80.2,0,9.2,8.8
+28,November,2013,31,Young Adults (25-34),M,United States,Oregon,12,45,120,698,540,1238,220.3,49,3.2,24.7
+28,November,2015,31,Young Adults (25-34),M,United States,Oregon,12,45,120,698,540,1238,59.6,12,43.1,9.7
+28,July,2014,37,Adults (35-64),M,France,Nord,4,45,120,238,180,418,0.7,39.6,8.7,1.6
+28,July,2016,37,Adults (35-64),M,France,Nord,3,45,120,178,135,313,265.2,2.9,43,12.7
+13,April,2014,26,Young Adults (25-34),M,Australia,Queensland,5,45,120,279,225,504,8.4,27.2,2.1,5.7
+13,April,2016,26,Young Adults (25-34),M,Australia,Queensland,7,45,120,391,315,706,219.8,33.5,45.1,19.6
+19,February,2014,87,Seniors (64+),F,Germany,Saarland,2,45,120,107,90,197,36.9,38.6,65.6,10.8
+19,February,2016,87,Seniors (64+),F,Germany,Saarland,3,45,120,160,135,295,48.3,47,8.5,11.6
+9,December,2013,25,Young Adults (25-34),F,Germany,Nordrhein-Westfalen,2,45,120,119,90,209,25.6,39,9.3,9.5
+9,December,2015,25,Young Adults (25-34),F,Germany,Nordrhein-Westfalen,3,45,120,178,135,313,273.7,28.9,59.7,20.8
+17,May,2014,31,Young Adults (25-34),F,Germany,Hamburg,3,45,120,200,135,335,43,25.9,20.5,9.6
+17,May,2016,31,Young Adults (25-34),F,Germany,Hamburg,2,45,120,133,90,223,184.9,43.9,1.7,20.7
+6,June,2014,32,Young Adults (25-34),F,France,Loir et Cher,5,45,120,309,225,534,73.4,17,12.9,10.9
+6,June,2016,32,Young Adults (25-34),F,France,Loir et Cher,7,45,120,433,315,748,193.7,35.4,75.6,19.2
+18,August,2013,25,Young Adults (25-34),M,Canada,British Columbia,2,45,120,148,90,238,220.5,33.2,37.9,20.1
+18,August,2015,25,Young Adults (25-34),M,Canada,British Columbia,3,45,120,221,135,356,104.6,5.7,34.4,10.4
+20,September,2013,26,Young Adults (25-34),F,United States,Washington,10,45,120,486,450,936,96.2,14.8,38.9,11.4
+20,September,2015,26,Young Adults (25-34),F,United States,Washington,9,45,120,437,405,842,140.3,1.9,9,10.3
+29,December,2013,26,Young Adults (25-34),F,United States,Washington,5,45,120,243,225,468,240.1,7.3,8.7,13.2
+29,December,2015,26,Young Adults (25-34),F,United States,Washington,2,45,120,97,90,187,243.2,49,44.3,25.4
+30,March,2014,33,Young Adults (25-34),M,Australia,Queensland,8,45,120,446,360,806,34,40.3,11.9,10.9
+30,March,2016,33,Young Adults (25-34),M,Australia,Queensland,8,45,120,446,360,806,44.7,25.8,20.6,10.1
+9,November,2013,29,Young Adults (25-34),F,United States,Oregon,7,45,120,407,315,722,280.7,13.9,37,16.1
+9,November,2015,29,Young Adults (25-34),F,United States,Oregon,8,45,120,466,360,826,121,8.4,48.7,11.6
+31,December,2013,24,Youth (<25),F,United States,Oregon,5,45,120,291,225,516,197.6,23.3,14.2,16.6
+31,December,2015,24,Youth (<25),F,United States,Oregon,7,45,120,407,315,722,171.3,39.7,37.7,19
+30,August,2013,31,Young Adults (25-34),M,United States,California,7,45,120,508,315,823,187.8,21.1,9.5,15.6
+30,August,2015,31,Young Adults (25-34),M,United States,California,6,45,120,436,270,706,4.1,11.6,5.7,3.2
+4,November,2013,40,Adults (35-64),M,United States,Kentucky,1,45,120,63,45,108,93.9,43.5,50.5,15.3
+4,November,2015,40,Adults (35-64),M,United States,Kentucky,1,45,120,63,45,108,149.8,1.3,24.3,10.1
+31,January,2014,44,Adults (35-64),M,Australia,New South Wales,10,45,120,594,450,1044,11.7,36.9,45.2,7.3
+31,January,2016,44,Adults (35-64),M,Australia,New South Wales,12,45,120,713,540,1253,131.7,18.4,34.6,12.9
+28,May,2014,44,Adults (35-64),M,Australia,New South Wales,4,45,120,238,180,418,172.5,18.1,30.7,14.4
+28,May,2016,44,Adults (35-64),M,Australia,New South Wales,6,45,120,356,270,626,85.7,35.8,49.3,13.3
+7,September,2013,21,Youth (<25),F,Canada,British Columbia,2,45,120,148,90,238,190.4,18.1,25.6,14.9
+7,September,2015,21,Youth (<25),F,Canada,British Columbia,1,45,120,74,45,119,163.5,36.8,7.4,18
+17,April,2014,25,Young Adults (25-34),M,United States,Oregon,6,45,120,349,270,619,117.2,14.7,5.4,11.9
+17,April,2016,25,Young Adults (25-34),M,United States,Oregon,7,45,120,407,315,722,234.5,3.4,84.8,11.9
+29,September,2013,25,Young Adults (25-34),M,United States,California,9,45,120,653,405,1058,17.9,37.6,21.6,8
+29,September,2015,25,Young Adults (25-34),M,United States,California,9,45,120,653,405,1058,206.8,5.2,19.4,12.2
+31,July,2013,29,Young Adults (25-34),F,United States,California,25,45,120,1815,1125,2940,215.4,23.6,57.6,17.1
+31,July,2015,29,Young Adults (25-34),F,United States,California,22,45,120,1597,990,2587,284.3,10.6,6.4,15
+3,August,2013,29,Young Adults (25-34),F,United States,California,11,45,120,799,495,1294,50,11.6,18.4,8.4
+3,August,2015,29,Young Adults (25-34),F,United States,California,11,45,120,799,495,1294,164.5,20.9,47.4,14.5
+27,February,2014,55,Adults (35-64),F,United States,Washington,2,45,120,97,90,187,19.6,20.1,17,7.6
+27,February,2016,55,Adults (35-64),F,United States,Washington,1,45,120,49,45,94,168.4,7.1,12.8,11.7
+13,September,2013,55,Adults (35-64),M,United States,Washington,4,45,120,194,180,374,222.4,3.4,13.1,11.5
+13,September,2015,55,Adults (35-64),M,United States,Washington,6,45,120,292,270,562,276.9,48.9,41.8,27
+8,June,2014,55,Adults (35-64),M,United States,Washington,9,45,120,437,405,842,248.4,30.2,20.3,20.2
+8,June,2016,55,Adults (35-64),M,United States,Washington,6,45,120,292,270,562,170.2,7.8,35.2,11.7
+5,June,2014,55,Adults (35-64),M,United States,Oregon,15,45,120,873,675,1548,276.7,2.3,23.7,11.8
+5,June,2016,55,Adults (35-64),M,United States,Oregon,15,45,120,873,675,1548,165.6,10,17.6,12.6
+15,December,2013,53,Adults (35-64),F,United States,California,7,45,120,508,315,823,156.6,2.6,8.3,10.5
+15,December,2015,53,Adults (35-64),F,United States,California,8,45,120,581,360,941,218.5,5.4,27.4,12.2
+17,January,2014,53,Adults (35-64),F,United States,California,30,45,120,2178,1350,3528,56.2,5.7,29.7,8.7
+17,January,2016,53,Adults (35-64),F,United States,California,29,45,120,2105,1305,3410,287.6,43,71.8,26.2
+7,May,2014,53,Adults (35-64),F,United States,California,6,45,120,436,270,706,253.8,21.3,30,17.6
+7,May,2016,53,Adults (35-64),F,United States,California,6,45,120,436,270,706,205,45.1,19.6,22.6
+10,November,2013,50,Adults (35-64),F,United States,Washington,10,45,120,486,450,936,139.5,2.1,26.6,10.3
+10,November,2015,50,Adults (35-64),F,United States,Washington,9,45,120,437,405,842,191.1,28.7,18.2,17.3
+19,August,2013,55,Adults (35-64),M,United States,California,12,45,120,871,540,1411,286,13.9,3.7,15.9
+19,August,2015,55,Adults (35-64),M,United States,California,9,45,120,653,405,1058,18.7,12.1,23.4,6.7
+18,September,2013,55,Adults (35-64),M,United States,California,3,45,120,218,135,353,39.5,41.1,5.8,10.8
+18,September,2015,55,Adults (35-64),M,United States,California,3,45,120,218,135,353,75.5,10.8,6,9.9
+14,December,2013,59,Adults (35-64),F,United States,Washington,30,45,120,1458,1350,2808,17.2,4.1,31.6,5.9
+14,December,2015,59,Adults (35-64),F,United States,Washington,30,45,120,1458,1350,2808,166.8,42,3.6,19.6
+1,January,2014,24,Youth (<25),M,Australia,New South Wales,8,45,120,475,360,835,149.7,35.6,6,17.3
+1,January,2016,24,Youth (<25),M,Australia,New South Wales,6,45,120,356,270,626,38.2,3.7,13.8,7.6
+1,March,2014,24,Youth (<25),F,Australia,Victoria,2,45,120,100,90,190,94.2,4.9,8.1,9.7
+1,March,2016,24,Youth (<25),F,Australia,Victoria,4,45,120,199,180,379,177,11,6.4,12.8
+12,June,2014,26,Young Adults (25-34),M,Australia,New South Wales,7,45,120,416,315,731,283.6,42,66.2,25.5
+12,June,2016,26,Young Adults (25-34),M,Australia,New South Wales,4,45,120,238,180,418,232.1,8.1,8.7,14.6
